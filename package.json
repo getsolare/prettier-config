@@ -1,10 +1,19 @@
 {
-  "name": "@getsolare/prettier-config",
+  "name": "@solare/prettier-config",
   "version": "0.0.1",
-  "description": "Solare Prettier Configuration",
+  "description": "Prettier Configuration",
   "main": "index.json",
-  "repository": "git@github.com:getsolare/prettier-config.git",
-  "author": "Zachary Meyer <zach@solare.app>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/getsolare/prettier-config.git"
+  },
+  "author": "Zachary Meyer",
   "license": "MIT",
-  "private": false
+  "bugs": {
+    "url": "https://github.com/getsolare/prettier-config/issues"
+  },
+  "homepage": "https://github.com/getsolare/prettier-config#readme"
 }
