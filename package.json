@@ -1,0 +1,9 @@
+{
+  "name": "@getsolare/prettier-config",
+  "version": "0.0.1]",
+  "description": "Solare Prettier Configuration",
+  "main": "index.json",
+  "repository": "git@github.com:getsolare/prettier-config.git",
+  "author": "Zachary Meyer <zach@solare.app>",
+  "license": "MIT"
+}
