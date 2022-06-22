@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@solare/prettier-config': ^0.0.1
+  prettier: ^2.7.1
+
+devDependencies:
+  '@solare/prettier-config': 0.0.1
+  prettier: 2.7.1
+
+packages:
+
+  /@solare/prettier-config/0.0.1:
+    resolution: {integrity: sha512-HIzPbkvJJo9d9aI9iKcjDiUyV+ntd0tz3RIxAy+xhiz9cCoHJl6HCt6mCILIUqZoHkts7rKxPX7fKCy5wavbQA==}
+    dev: true
+
+  /prettier/2.7.1:
+    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: true

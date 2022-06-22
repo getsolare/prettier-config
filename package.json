@@ -4,7 +4,8 @@
   "description": "Prettier Configuration",
   "main": "index.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prettier:check": "prettier --check .",
+    "prettier": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/getsolare/prettier-config/issues"
   },
-  "homepage": "https://github.com/getsolare/prettier-config#readme"
+  "homepage": "https://github.com/getsolare/prettier-config#readme",
+  "devDependencies": {
+    "@solare/prettier-config": "^0.0.1",
+    "prettier": "^2.7.1"
+  },
+  "prettier": "@solare/prettier-config"
 }
