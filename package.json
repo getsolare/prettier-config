@@ -1,6 +1,6 @@
 {
   "name": "@solare/prettier-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Prettier Configuration",
   "main": "index.json",
   "scripts": {
@@ -19,7 +19,8 @@
   "homepage": "https://github.com/getsolare/prettier-config#readme",
   "devDependencies": {
     "@solare/prettier-config": "^0.0.1",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.11",
   },
   "prettier": "@solare/prettier-config"
 }
